@@ -1,4 +1,4 @@
-# This is an extremly simple web chat
+# This is extremly simple web chat
 
 To start your the Chat:
 
