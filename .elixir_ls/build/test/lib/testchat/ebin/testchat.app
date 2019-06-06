@@ -6,6 +6,7 @@
               {modules,['Elixir.Testchat','Elixir.Testchat.Application',
                         'Elixir.Testchat.DataCase','Elixir.Testchat.Repo',
                         'Elixir.TestchatWeb','Elixir.TestchatWeb.ChannelCase',
+                        'Elixir.TestchatWeb.Channels.RoomChannel',
                         'Elixir.TestchatWeb.ConnCase',
                         'Elixir.TestchatWeb.Endpoint',
                         'Elixir.TestchatWeb.ErrorHelpers',
